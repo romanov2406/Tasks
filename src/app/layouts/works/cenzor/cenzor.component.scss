@@ -1,0 +1,22 @@
+.content {
+  width: 700px;
+  margin: 0 auto;
+
+  h3 {
+    span {
+      color: red;
+    }
+  }
+}
+
+.content-top {
+  display: flex;
+
+  button {
+    margin-left: 5px;
+  }
+}
+
+.content-bottom {
+  margin-top: 10px;
+}
